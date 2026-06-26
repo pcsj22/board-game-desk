@@ -512,7 +512,7 @@ async function cercaPrezzoAI(){
   btn.disabled=true; st.innerHTML='<span class="spinner"></span>'; res.style.display='none';
   try{
     const prompt=`Sei esperto di giochi da tavolo usati. Stima il prezzo di rivendita su Vinted per "${nome}" in condizione "${cond}". Rispondi solo con:\nMIN: X€ | MAX: Y€ | CONSIGLIATO: Z€\nNota: (1 riga breve sul mercato)`;
-    const resp=await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${key}`,{
+    const resp=await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${key}`,{
       method:'POST',
       headers:{'content-type':'application/json'},
       body:JSON.stringify({contents:[{parts:[{text:prompt}]}]})
