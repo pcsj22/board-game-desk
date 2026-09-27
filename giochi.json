@@ -1,5 +1,19 @@
 [
   {
+    "id": "1790536439079",
+    "name": "Syllabus",
+    "paid": 7,
+    "cond": "Ottimo",
+    "date": "2026-09-27",
+    "where": "Asta Draft",
+    "notes": "da mistery box",
+    "suggestedPrice": 7,
+    "cover": null,
+    "bggId": null,
+    "vintedUrl": null,
+    "sold": false
+  },
+  {
     "id": "1790536316277",
     "name": "Leolino",
     "paid": 1,
