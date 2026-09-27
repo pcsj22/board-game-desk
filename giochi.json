@@ -11,7 +11,10 @@
     "cover": null,
     "bggId": null,
     "vintedUrl": null,
-    "sold": false
+    "sold": true,
+    "soldPrice": 6,
+    "soldDate": "2026-05-20",
+    "platform": "Vinted"
   },
   {
     "id": "1790536439079",
