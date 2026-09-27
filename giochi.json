@@ -1,5 +1,19 @@
 [
   {
+    "id": "1790536936210",
+    "name": "Frutta Fatata",
+    "paid": 5,
+    "cond": "Ottimo",
+    "date": "2026-09-27",
+    "where": "Asta Draft",
+    "notes": "",
+    "suggestedPrice": 23,
+    "cover": null,
+    "bggId": null,
+    "vintedUrl": "https://www.vinted.it/items/9261079859-frutta-fatata-fable-game",
+    "sold": false
+  },
+  {
     "id": "1790536738426",
     "name": "Presto",
     "paid": 5,
