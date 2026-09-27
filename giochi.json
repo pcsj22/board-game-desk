@@ -1,5 +1,19 @@
 [
   {
+    "id": "1790536316277",
+    "name": "Leolino",
+    "paid": 1,
+    "cond": "Ottimo",
+    "date": "2026-06-25",
+    "where": "Asta Draft",
+    "notes": "",
+    "suggestedPrice": 10,
+    "cover": null,
+    "bggId": null,
+    "vintedUrl": null,
+    "sold": false
+  },
+  {
     "id": "1790536284114",
     "name": "Archelino",
     "paid": 1,
