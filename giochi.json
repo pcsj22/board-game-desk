@@ -1,5 +1,19 @@
 [
   {
+    "id": "1790536542344",
+    "name": "Fifty",
+    "paid": 4,
+    "cond": "Ottimo",
+    "date": "2026-09-27",
+    "where": "Asta Draft",
+    "notes": "board game",
+    "suggestedPrice": 8,
+    "cover": null,
+    "bggId": null,
+    "vintedUrl": null,
+    "sold": false
+  },
+  {
     "id": "1790536439079",
     "name": "Syllabus",
     "paid": 7,
