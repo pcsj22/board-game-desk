@@ -88,19 +88,5 @@
     "bggId": null,
     "vintedUrl": "https://www.vinted.it/items/10160412685-jungle-race-board-game",
     "sold": false
-  },
-  {
-    "id": "1782510612490",
-    "name": "Liolino",
-    "paid": 1,
-    "cond": "Ottimo",
-    "date": "2026-06-25",
-    "where": "Asta Draft",
-    "notes": "Nuovo",
-    "suggestedPrice": 12,
-    "cover": null,
-    "bggId": null,
-    "vintedUrl": null,
-    "sold": false
   }
 ]
