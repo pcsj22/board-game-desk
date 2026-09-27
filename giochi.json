@@ -1,5 +1,19 @@
 [
   {
+    "id": "1790537022041",
+    "name": "Mekhane",
+    "paid": 8,
+    "cond": "Ottimo",
+    "date": "2026-04-30",
+    "where": "Asta Draft",
+    "notes": "",
+    "suggestedPrice": 12,
+    "cover": null,
+    "bggId": null,
+    "vintedUrl": "https://www.vinted.it/items/8790222304-mekhane-cranio-creations-come-nuovo-carte-sigillate",
+    "sold": false
+  },
+  {
     "id": "1790536936210",
     "name": "Frutta Fatata",
     "paid": 5,
