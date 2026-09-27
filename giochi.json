@@ -1,5 +1,19 @@
 [
   {
+    "id": "1790536112726",
+    "name": "Borsa Label Rose",
+    "paid": 40,
+    "cond": "Ottimo",
+    "date": "2024-07-17",
+    "where": "Online",
+    "notes": "mai usata con anche borsa contenitrice e e cartellino",
+    "suggestedPrice": 26,
+    "cover": null,
+    "bggId": null,
+    "vintedUrl": null,
+    "sold": false
+  },
+  {
     "id": "1790535920138",
     "name": "Correo de Medianoche",
     "paid": 7,
@@ -15,7 +29,7 @@
   },
   {
     "id": "1790534726113",
-    "name": "Penk! Il dado è tratto",
+    "name": "Penk! Il dado Ã¨ tratto",
     "paid": 6,
     "cond": "Ottimo",
     "date": "2026-09-24",
