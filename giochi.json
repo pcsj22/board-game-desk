@@ -1,5 +1,19 @@
 [
   {
+    "id": "1790536284114",
+    "name": "Archelino",
+    "paid": 1,
+    "cond": "Ottimo",
+    "date": "2026-06-25",
+    "where": "Asta Draft",
+    "notes": "",
+    "suggestedPrice": 12,
+    "cover": null,
+    "bggId": null,
+    "vintedUrl": null,
+    "sold": false
+  },
+  {
     "id": "1790536196630",
     "name": "Splittissimo",
     "paid": 1,
