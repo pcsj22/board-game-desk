@@ -1,5 +1,19 @@
 [
   {
+    "id": "1790536738426",
+    "name": "Presto",
+    "paid": 5,
+    "cond": "Ottimo",
+    "date": "2026-03-26",
+    "where": "Asta Draft",
+    "notes": "",
+    "suggestedPrice": 9,
+    "cover": null,
+    "bggId": null,
+    "vintedUrl": null,
+    "sold": false
+  },
+  {
     "id": "1790536658354",
     "name": "Acchiappa mostri",
     "paid": 6,
