@@ -1,5 +1,19 @@
 [
   {
+    "id": "1791128692588",
+    "name": "The Tattoo game",
+    "paid": 1,
+    "cond": "Buono",
+    "date": "2026-05-28",
+    "where": "Asta Draft",
+    "notes": "",
+    "suggestedPrice": 5,
+    "cover": null,
+    "bggId": null,
+    "vintedUrl": "https://www.vinted.it/items/10243816501-the-tattoo-game",
+    "sold": false
+  },
+  {
     "id": "1791127256969",
     "name": "Clips",
     "paid": 5,
