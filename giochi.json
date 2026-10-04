@@ -1,5 +1,19 @@
 [
   {
+    "id": "1791123894472",
+    "name": "Bounced it!",
+    "paid": 5,
+    "cond": "Ottimo",
+    "date": "2026-03-26",
+    "where": "Asta Draft",
+    "notes": "",
+    "suggestedPrice": 11,
+    "cover": null,
+    "bggId": null,
+    "vintedUrl": "https://www.vinted.it/items/10242123930-bounce-it-board-game",
+    "sold": false
+  },
+  {
     "id": "1790537101368",
     "name": "Treos",
     "paid": 10,
@@ -193,7 +207,7 @@
   },
   {
     "id": "1790534726113",
-    "name": "Penk! Il dado Ã¨ tratto",
+    "name": "Penk! Il dado ÃÂ¨ tratto",
     "paid": 6,
     "cond": "Ottimo",
     "date": "2026-09-24",
