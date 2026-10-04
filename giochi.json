@@ -1,5 +1,19 @@
 [
   {
+    "id": "1791127256969",
+    "name": "Clips",
+    "paid": 5,
+    "cond": "Ottimo",
+    "date": "2026-06-25",
+    "where": "Asta Draft",
+    "notes": "",
+    "suggestedPrice": 9,
+    "cover": null,
+    "bggId": null,
+    "vintedUrl": "https://www.vinted.it/items/10243302587-clips-board-game",
+    "sold": false
+  },
+  {
     "id": "1791126890489",
     "name": "Terra Mystica",
     "paid": 12,
