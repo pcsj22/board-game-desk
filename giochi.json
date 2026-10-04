@@ -1,5 +1,19 @@
 [
   {
+    "id": "1791126890489",
+    "name": "Terra Mystica",
+    "paid": 12,
+    "cond": "Ottimo",
+    "date": "2026-07-30",
+    "where": "Asta Draft",
+    "notes": "",
+    "suggestedPrice": 37,
+    "cover": null,
+    "bggId": null,
+    "vintedUrl": "https://www.vinted.it/items/10243142556-terra-mystica-mercanti-dei-mari-board-game-espansione",
+    "sold": false
+  },
+  {
     "id": "1791126287632",
     "name": "Monster Mess",
     "paid": 8,
