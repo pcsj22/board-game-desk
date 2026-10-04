@@ -1,5 +1,19 @@
 [
   {
+    "id": "1791125714530",
+    "name": "Fun Facts",
+    "paid": 4,
+    "cond": "Buono",
+    "date": "2026-04-30",
+    "where": "Asta Draft",
+    "notes": "rovinata scatola causa stoccaggio",
+    "suggestedPrice": 6,
+    "cover": null,
+    "bggId": null,
+    "vintedUrl": "https://www.vinted.it/items/10242759844-fun-facts-board-game",
+    "sold": false
+  },
+  {
     "id": "1791125107918",
     "name": "Origine",
     "paid": 5,
