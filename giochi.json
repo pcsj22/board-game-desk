@@ -129,7 +129,10 @@
     "cover": null,
     "bggId": null,
     "vintedUrl": "https://www.vinted.it/items/10242759844-fun-facts-board-game",
-    "sold": false
+    "sold": true,
+    "soldPrice": 6,
+    "soldDate": "2026-10-28",
+    "platform": "Vinted"
   },
   {
     "id": "1791125107918",
