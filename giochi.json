@@ -39,7 +39,10 @@
     "cover": null,
     "bggId": null,
     "vintedUrl": "https://www.vinted.it/items/10244165743-mon-puzzle-aventure-dragon-neuf-sous-cellophane",
-    "sold": false
+    "sold": true,
+    "soldPrice": 10,
+    "soldDate": "2026-10-28",
+    "platform": "Vinted"
   },
   {
     "id": "1791129206812",
@@ -347,7 +350,7 @@
   },
   {
     "id": "1790534726113",
-    "name": "Penk! Il dado ÃÂ¨ tratto",
+    "name": "Penk! Il dado ÃÂÃÂ¨ tratto",
     "paid": 6,
     "cond": "Ottimo",
     "date": "2026-09-24",
