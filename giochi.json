@@ -112,7 +112,10 @@
     "cover": null,
     "bggId": null,
     "vintedUrl": "https://www.vinted.it/items/10242962718-moster-mess-board-game",
-    "sold": false
+    "sold": true,
+    "soldPrice": 13,
+    "soldDate": "2026-10-28",
+    "platform": "Vinted"
   },
   {
     "id": "1791125714530",
