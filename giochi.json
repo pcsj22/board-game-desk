@@ -160,7 +160,10 @@
     "cover": null,
     "bggId": null,
     "vintedUrl": "https://www.vinted.it/items/10242123930-bounce-it-board-game",
-    "sold": false
+    "sold": true,
+    "soldPrice": 9,
+    "soldDate": "2026-11-09",
+    "platform": "Vinted"
   },
   {
     "id": "1790537101368",
