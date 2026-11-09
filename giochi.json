@@ -335,11 +335,14 @@
     "cover": null,
     "bggId": null,
     "vintedUrl": "https://www.vinted.it/items/10160886049-midnight-mail-correo-de-medianoche-board-game",
-    "sold": false
+    "sold": true,
+    "soldPrice": 22,
+    "soldDate": "2026-11-09",
+    "platform": "Vinted"
   },
   {
     "id": "1790534726113",
-    "name": "Penk! Il dado ÃÂÃÂ¨ tratto",
+    "name": "Penk! Il dado ÃÂÃÂÃÂÃÂ¨ tratto",
     "paid": 6,
     "cond": "Ottimo",
     "date": "2026-09-24",
